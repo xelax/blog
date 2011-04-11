@@ -1,7 +1,3 @@
----
-layout: post
-title: Blogging with Jekyll
----
 h1. Blogging with Jekyll
 
 Trying out this new way to write blogs. I always disliked web-based interfaces and craved for the simplicity 
