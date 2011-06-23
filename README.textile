@@ -3,4 +3,6 @@ h1. Blogging with Jekyll
 Trying out this new way to write blogs. I always disliked web-based interfaces and craved for the simplicity 
 of just typing text in my favorite editor, and I think that "Jekyll":http://github.com/mojombo/jekyll fits the bill.
 
+h2. Things to do.
+
 Copyright (c) 2011 Alex Cozzi
